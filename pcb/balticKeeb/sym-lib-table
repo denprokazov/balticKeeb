@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name balticKeeb)(type Legacy)(uri ${KIPRJMOD}/balticKeeb.lib)(options "")(descr ""))
+  (lib (name promicro)(type Legacy)(uri C:/Users/somborero/Documents/repos/ProMicroKiCad/promicro_library/promicro.lib)(options "")(descr ""))
+)

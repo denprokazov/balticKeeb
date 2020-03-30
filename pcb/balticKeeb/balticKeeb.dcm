@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP pkm_1b_switch
+D reed switch
+K reed magnetic switch
+F ~
+$ENDCMP
+#
+#End Doc Library
